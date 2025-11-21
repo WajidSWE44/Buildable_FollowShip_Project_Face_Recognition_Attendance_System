@@ -47,15 +47,15 @@ pip install opencv-python face_recognition numpy pandas
 python attendance.py
 
 ## Usage
--> The system will open your webcam and start recognizing faces.
--> Make sure to first add and encode faces using the provided scripts (or your custom data collection).
--> Attendance will be recorded automatically in attendance.csv.
+The system will open your webcam and start recognizing faces.
+Make sure to first add and encode faces using the provided scripts (or your custom data collection).
+Attendance will be recorded automatically in attendance.csv.
 
 ##🚀 Future Improvements
--> Add GUI with Tkinter or Streamlit
--> Integrate deep learning models for better accuracy
--> Support cloud storage and real-time dashboards
--> Add multi-face attendance recognition
+Add GUI with Tkinter or Streamlit
+Integrate deep learning models for better accuracy
+Support cloud storage and real-time dashboards
+Add multi-face attendance recognition
 
 ##🙋‍♂️ About Me
 Hi,this is me Wajid Ali.I am learning and building projects on Python and computer vision. This project helped me understand facial recognition and practical ML applications.
